@@ -45,7 +45,7 @@
 
 | 수정 전 | 수정 후 |
 | :---: | :---: |
-| | |
+|<img width="{80%}" src="{<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ec8e1588-e7e2-487f-b29f-4ef76e440860" />}"/>|<img width="{80%}" src="{이미지 경로}"/> |
 
 ### #2 / 4~5초
 - **메시지:** 가볍고 편해서 어디든 갈 수 있음
@@ -57,6 +57,7 @@
   - **GPT image 2:** 햇살 아래의 공원길에서 자전거를 타는 어린이, 달려가는 자세의 어린이 두 명이 모두 크록스를 신고 있다. 크록스의 색깔은 각각 다르다. 카메라 앵글은 크록스 신발이 주 요소가 되도록 앵글을 신발 위주로 조명한다. 사진 속의 어린이들은 모두 움직이던 도중 찍힌 듯한 자연스러운 자세를 하고 있으며 앞으로 가던 도중의 모습이고, 카메라는 아이들의 뒷쪽에서 비정형적인 구도로 아이들을 찍고 있다.
   - **Canva AI 2.0:** Tracking shot of children running through a sunny park while wearing colorful Crocs. The camera follows behind at foot level. Footsteps feel light, energetic, and playful. Sunlight shines through the trees. As the sequence approaches the end, one child kicks a small amount of dust and tiny pebbles from the path. The camera follows the motion downward. The kicked particles briefly fill the frame. The camera continues tilting toward the ground until the frame becomes completely dark.
 - **생성 결과 파일명 또는 링크 표기:** (파일명 규칙 자유, 단 일관성 유지)
+  - <img width="{80%}" src="{<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ec8e1588-e7e2-487f-b29f-4ef76e440860" />}"/>
 
 ### #3 / 3초
 - **목표 메시지:** 마음껏 뛰어도 좋다
