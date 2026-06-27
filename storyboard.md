@@ -37,12 +37,12 @@
   - **GPT image 2:** 한 어린이가 지비츠가 달린 노란색 crocs를 자신의 집 현관에 앉아서 신고 있는 중의 이미지를 생성해 줘. 앵글은 crocs를 신고 있는 발 부분만 카메라의 시선과 일치하는 높이로 보여줘. 배경은 여름이라서 아이가 맨발에 크록스를 신고, 반바지를 입고 있어.
   - **Omni flash:** Close-up shot of yellow Crocs at the front door. Camera at ankle height. The child prepares to run. One foot steps forward. At the exact moment the foot lands, the child suddenly accelerates out of frame. Motion blur trails behind the shoes. Bright sunlight. High-energy commercial advertisement. No face visible.
 - **생성 결과 파일명 또는 링크 표기:** (파일명 규칙 자유, 단 일관성 유지)
+  - <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/11c75ad0-7477-408e-8850-ebdae8536952" />
 - **프롬프트 수정 이력 및 이유:**
   - **수정 전:** 한 어린이가 노란색 crocs를 자신의 집 현관에서 신고 있는 중의 이미지를 생성해 줘. 앵글은 crocs를 신고 있는 발 부분만 보여줘.
   - **수정 후:** 한 어린이가 지비츠가 달린 노란색 crocs를 자신의 집 현관에 앉아서 신고 있는 중의 이미지를 생성해 줘. 앵글은 crocs를 신고 있는 발 부분만 카메라의 시선과 일치하는 높이로 보여줘. 배경은 여름이라서 아이가 맨발에 크록스를 신고, 반바지를 입고 있어.
   - **변경사항 및 이유:** 유저의 포괄적이고 모호한 요구로 인해, GPT가 겨울 옷을 입고, 밋밋한 노란색 크록스를 신고 신발장에 서 있는 어린아이의 사진을 하이앵글로 출력함. 광고에서 의도한 스포티, 컬러풀, 활동적임, 하루를 시작하는 컨셉과 맞지 않아 구체적인 요구사항을 프롬프트에 추가함.
 - **프롬프트 수정 전후 결과 비교:**
-  - <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/11c75ad0-7477-408e-8850-ebdae8536952" />
 
 | 수정 전 | 수정 후 |
 | :---: | :---: |
