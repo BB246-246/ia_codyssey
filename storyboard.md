@@ -42,10 +42,11 @@
   - **수정 후:** 한 어린이가 지비츠가 달린 노란색 crocs를 자신의 집 현관에 앉아서 신고 있는 중의 이미지를 생성해 줘. 앵글은 crocs를 신고 있는 발 부분만 카메라의 시선과 일치하는 높이로 보여줘. 배경은 여름이라서 아이가 맨발에 크록스를 신고, 반바지를 입고 있어.
   - **변경사항 및 이유:** 유저의 포괄적이고 모호한 요구로 인해, GPT가 겨울 옷을 입고, 밋밋한 노란색 크록스를 신고 신발장에 서 있는 어린아이의 사진을 하이앵글로 출력함. 광고에서 의도한 스포티, 컬러풀, 활동적임, 하루를 시작하는 컨셉과 맞지 않아 구체적인 요구사항을 프롬프트에 추가함.
 - **프롬프트 수정 전후 결과 비교:**
+  - <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/11c75ad0-7477-408e-8850-ebdae8536952" />
 
 | 수정 전 | 수정 후 |
 | :---: | :---: |
-|<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/ec8e1588-e7e2-487f-b29f-4ef76e440860" />|<img width="{80%}" src="{이미지 경로}"/> |
+|<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/5c2347af-72bb-40f1-bc29-a2cd983e846f" />|<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/11c75ad0-7477-408e-8850-ebdae8536952" />|
 
 ### #2 / 4~5초
 - **메시지:** 가볍고 편해서 어디든 갈 수 있음
@@ -57,7 +58,7 @@
   - **GPT image 2:** 햇살 아래의 공원길에서 자전거를 타는 어린이, 달려가는 자세의 어린이 두 명이 모두 크록스를 신고 있다. 크록스의 색깔은 각각 다르다. 카메라 앵글은 크록스 신발이 주 요소가 되도록 앵글을 신발 위주로 조명한다. 사진 속의 어린이들은 모두 움직이던 도중 찍힌 듯한 자연스러운 자세를 하고 있으며 앞으로 가던 도중의 모습이고, 카메라는 아이들의 뒷쪽에서 비정형적인 구도로 아이들을 찍고 있다.
   - **Canva AI 2.0:** Tracking shot of children running through a sunny park while wearing colorful Crocs. The camera follows behind at foot level. Footsteps feel light, energetic, and playful. Sunlight shines through the trees. As the sequence approaches the end, one child kicks a small amount of dust and tiny pebbles from the path. The camera follows the motion downward. The kicked particles briefly fill the frame. The camera continues tilting toward the ground until the frame becomes completely dark.
 - **생성 결과 파일명 또는 링크 표기:** (파일명 규칙 자유, 단 일관성 유지)
-  - <img width="{80%}" src="{<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/ec8e1588-e7e2-487f-b29f-4ef76e440860" />}"/>
+  - <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/ec8e1588-e7e2-487f-b29f-4ef76e440860" />
 
 ### #3 / 3초
 - **목표 메시지:** 마음껏 뛰어도 좋다
@@ -69,6 +70,7 @@
   - **GPT image 2:** 뜨거운 햇살이 내리쬐는 바닷가 모래사장에서 남자아이와 여자아이가 둘 다 지비츠가 붙은 크록스 신발을 신고 뛰놀며 장난치는 이미지. 각각 다른 색상의 크록스를 신고 있다. 카메라는 신발을 부분을 조명하고 있고 아이들의 얼굴은 보이지 않음. 주의해야 할 요소는 모래사장, 크록스, 당장이라도 모래를 걷어찰 듯이 활기차게 뛰노는 동작이다.
   - **Canva AI 2.0:** The children are running around playing with each other when one of them kicks the camera into the sand, burying it and causing the lights to go out. The camera keeps concentrating only on the shoes.
 - **생성 결과 파일명 또는 링크 표기:** (파일명 규칙 자유, 단 일관성 유지)
+  - <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/b2db3d19-30b0-4c05-a2df-e58dd9d1879a" />
 
 ### #4 / 4~5초
 - **메시지:** 자유로운 어린이 에너지
